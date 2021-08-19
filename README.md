@@ -28,4 +28,4 @@ Any updates will be appreciated
 Working with Catalina and Big Sur
 
 # Screenshots:
-![About this Mac](https://github.com/HarleyK1ng/opencore_b560_i5-10500/screenshots/about_this_mac.png)
+![About this Mac](https://github.com/HarleyK1ng/opencore_b560_i5-10500/blob/main/screenshots/about_this_mac.png)
