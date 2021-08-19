@@ -1,7 +1,7 @@
 # My EFI folder
 Any updates will be appreciated
 
-## Build:
+# PC build:
 - MB: Asus Prime B560M-K;
 - CPU: Intel Core i5 10500;
 - GPU: NVidia GTX 760;
@@ -9,6 +9,7 @@ Any updates will be appreciated
 - SSD: TwinMOS NVMe 128GB;
 - HDD: Toshiba 1TB;
 
+# Tests
 ## Working:
 - All Apple services;
 - Hardware acceleration on GPU;
@@ -25,3 +26,6 @@ Any updates will be appreciated
 - Wi-Fi;
 
 Working with Catalina and Big Sur
+
+# Screenshots:
+![About this Mac](https://github.com/HarleyK1ng/opencore_b560_i5-10500/screenshots/about_this_mac.png)
