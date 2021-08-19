@@ -1,4 +1,5 @@
 # My EFI folder
+Any updates will be appreciated
 
 ## Build:
 - MB: Asus Prime B560M-K;
